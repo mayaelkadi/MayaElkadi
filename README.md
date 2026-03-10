@@ -3,10 +3,6 @@
 Software Engineer  
 Prague, Czech Republic  
 
-📧 maya.elkadi0@gmail.com  
-📞 +420 773 452 615  
-🔗 https://www.linkedin.com/in/maya-elkadi-8a8731254/
-
 ---
 
 ## About Me
@@ -16,7 +12,6 @@ I'm a software engineering student at **Czech Technical University (ČVUT FIT)**
 I enjoy building clean interfaces, connecting frontend and backend systems, and working on projects that combine software engineering with real-world applications.
 
 Most of my work involves **web development, APIs, and full-stack applications**, and I’m especially interested in building systems that are scalable and easy to maintain.
-
 ---
 
 ## Tech Stack
