@@ -1,162 +1,121 @@
-# 👩‍💻 Maya Elkadi
-**Software Engineer | Frontend & Full-Stack Developer**
+# Maya Elkadi
 
-📍 Prague, Czech Republic  
+Software Engineer  
+Prague, Czech Republic  
+
 📧 maya.elkadi0@gmail.com  
 📞 +420 773 452 615  
-🔗 LinkedIn: https://www.linkedin.com/in/maya-elkadi-8a8731254/
+🔗 https://www.linkedin.com/in/maya-elkadi-8a8731254/
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a software engineer based in Prague currently studying **Software Engineering at the Czech Technical University (ČVUT FIT)**.
+I'm a software engineering student at **Czech Technical University (ČVUT FIT)** in Prague and currently working as a **Frontend Application Engineer at Siemens**.
 
-I enjoy building **clean user interfaces, scalable backend systems, and intelligent applications** that solve real-world problems.
+I enjoy building clean interfaces, connecting frontend and backend systems, and working on projects that combine software engineering with real-world applications.
 
-My work spans across **frontend development, backend systems, AI-powered applications, and full-stack web platforms**.
-
-I particularly enjoy working with **modern web technologies, APIs, and automation systems** while continuously expanding my knowledge in **software architecture, DevOps, and AI systems**.
+Most of my work involves **web development, APIs, and full-stack applications**, and I’m especially interested in building systems that are scalable and easy to maintain.
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST-APIs-black?style=for-the-badge)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab-CI/CD-black?style=for-the-badge&logo=gitlab)
-![DevTools](https://img.shields.io/badge/Browser-DevTools-black?style=for-the-badge&logo=googlechrome)
-
-### AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge)
-![Discord API](https://img.shields.io/badge/Discord-API-black?style=for-the-badge&logo=discord)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
+![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=flat-square&logo=springboot)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-black?style=flat-square&logo=gitlab)
+![REST](https://img.shields.io/badge/REST%20APIs-black?style=flat-square)
+![DevTools](https://img.shields.io/badge/Browser%20DevTools-black?style=flat-square&logo=googlechrome)
+![Discord](https://img.shields.io/badge/Discord%20API-black?style=flat-square&logo=discord)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square)
 
 ---
 
-# 💼 Work Experience
+## Work Experience
 
-## Siemens  
-**Application Engineer – Frontend Developer**  
+### Siemens — Application Engineer (Frontend)
 Prague, Czech Republic  
 Aug 2025 – Present
 
-- Developed and maintained **frontend components using Angular, HTML, CSS, and Tailwind CSS**.
-- Implemented **JSON-driven configuration** enabling dynamic rendering of application views.
-- Rebuilt existing application pages in a new system while preserving **functionality and performance**.
-- Debugged and optimized UI behavior using **browser developer tools**.
-- Built scalable and maintainable layouts using **TailwindCSS utility-based styling**.
+- Developed frontend components using **Angular, HTML, CSS, and TailwindCSS**
+- Implemented **JSON-driven configuration** for dynamic UI rendering
+- Recreated existing system pages while maintaining layout and functionality
+- Used browser DevTools to debug DOM structure and styling issues
+- Built reusable layouts with TailwindCSS
 
-Technologies: Angular, HTML, CSS, TailwindCSS, JSON, Git, DevTools
-
----
-
-# 🚀 Selected Projects
-
-## Autonomous AI Agent System
-**Backend Developer**
-
-Technologies:  
-Java • PostgreSQL • Docker • Discord API • GPT-4
-
-- Built an **AI-powered opportunity matching system** connecting students with corporate opportunities.
-- Integrated **Discord API** for real-time communication.
-- Designed scalable backend logic using **Docker and CI/CD pipelines**.
-- Platform reached **100+ active student users**.
+Technologies used: Angular, HTML, CSS, TailwindCSS, JSON, Git
 
 ---
 
-## Document Chat System
-**Frontend Developer**
+## Projects
 
-Technologies:  
-React • FastAPI • Axios • Docker • HTML • CSS
+### Autonomous AI Agent System
+Backend Developer
 
-- Built parts of the **React interface** for a multi-user document chatbot.
-- Integrated frontend with **FastAPI REST services**.
-- Implemented document uploads and chat interaction features.
-- Deployed using **Docker Compose** in a team environment.
+Built an AI-based platform that connects students with corporate opportunities through Discord.
 
----
+- Implemented backend logic in **Java**
+- Integrated **Discord API** for real-time interaction
+- Built PostgreSQL queries for opportunity matching
+- Deployed using **Docker and GitLab CI/CD**
 
-## GastroGuide – Restaurant Recommendation System
-**Full-Stack Developer**
-
-Technologies:  
-Java • Spring Boot • PostgreSQL • React • REST APIs
-
-- Developed a **client-server restaurant discovery platform**.
-- Built backend services using **Spring Boot and JPA/Hibernate**.
-- Designed database architecture with **PostgreSQL**.
-- Implemented recommendation features based on **user reviews and ratings**.
+Technologies: Java, PostgreSQL, Docker, Discord API, GPT-4
 
 ---
 
-# 🎓 Education
+### Document Chat System
+Frontend Developer
 
-## Czech Technical University in Prague – FIT  
-**Bachelor's Degree – Software Engineering**  
-Expected Graduation: **June 2027**
+A multi-user document chatbot where users upload files and interact with them through chat.
 
-Relevant Coursework:
+- Built parts of the **React frontend**
+- Connected UI with **FastAPI REST endpoints**
+- Implemented document upload and chat interaction
 
-- Programming & Algorithms  
-- Operating Systems  
-- Computer Networks  
-- Cryptography & Security  
-- Java Technologies  
-- DevOps  
-- Database Systems  
-- Computer Architecture  
-- Project Management  
+Technologies: React, FastAPI, Axios, HTML, CSS, Docker
 
 ---
 
-## American Academy in Prague  
-**Student Body President**
+### GastroGuide – Restaurant Recommendation System
+Full-Stack Developer
 
-Developed leadership, communication, and organizational skills while representing the student body.
+A web platform for discovering restaurants, rating dishes, and writing reviews.
 
----
+- Developed backend services with **Spring Boot**
+- Built PostgreSQL database models with JPA/Hibernate
+- Created a React frontend consuming the REST API
 
-# 🌍 Languages
-
-🇬🇧 English — Fluent (C2)  
-🇸🇦 Arabic — Native  
-🇨🇿 Czech — Intermediate (A2)
+Technologies: Java, Spring Boot, PostgreSQL, React, REST APIs
 
 ---
 
-# 📈 Currently Exploring
+## Education
 
-- AI-powered software systems  
-- distributed backend architectures  
-- scalable web platforms  
-- modern DevOps practices  
+**Czech Technical University in Prague (ČVUT FIT)**  
+Bachelor’s in Software Engineering  
+Expected Graduation: June 2027
+
+Relevant coursework:
+Programming & Algorithms • Operating Systems • Computer Networks • Cryptography & Security • DevOps • Database Systems • Java Technology • Computer Architecture • Project Management
 
 ---
 
-⭐ Always interested in collaborating on innovative software projects.
+## Languages
+
+English — Fluent (C2)  
+Arabic — Native  
+Czech — Intermediate (A2)
