@@ -10,9 +10,11 @@ Prague, Czech Republic
 
 I'm a software engineering student at **Czech Technical University (ČVUT FIT)** in Prague and currently working as a **Frontend Application Engineer at Siemens**.
 
-I enjoy building clean interfaces, connecting frontend and backend systems, and working on projects that combine software engineering with real-world applications.
+I enjoy turning ideas into real software — from designing clean user interfaces to building the backend systems that power them. Most of my experience is in **web development and full-stack applications**, where I focus on writing maintainable code and building systems that scale.
 
-Most of my work involves **web development, APIs, and full-stack applications**, and I’m especially interested in building systems that are scalable and easy to maintain.
+Alongside my work at Siemens, I’ve built projects ranging from **AI-powered platforms and document chat systems to full-stack recommendation applications**, working with modern frameworks, APIs, and databases.
+
+I'm always looking to deepen my understanding of **software architecture, distributed systems, and intelligent applications**, while continuing to build practical projects that solve real problems.
 
 ---
 
@@ -39,75 +41,6 @@ Most of my work involves **web development, APIs, and full-stack applications**,
 ![DevTools](https://img.shields.io/badge/Browser%20DevTools-black?style=flat-square&logo=googlechrome)
 ![Discord](https://img.shields.io/badge/Discord%20API-black?style=flat-square&logo=discord)
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square)
-
----
-
-## Work Experience
-
-### Siemens — Application Engineer (Frontend)
-Prague, Czech Republic  
-Aug 2025 – Present
-
-- Developed frontend components using **Angular, HTML, CSS, and TailwindCSS**
-- Implemented **JSON-driven configuration** for dynamic UI rendering
-- Recreated existing system pages while maintaining layout and functionality
-- Used browser DevTools to debug DOM structure and styling issues
-- Built reusable layouts with TailwindCSS
-
-Technologies used: Angular, HTML, CSS, TailwindCSS, JSON, Git
-
----
-
-## Projects
-
-### Autonomous AI Agent System
-Backend Developer
-
-Built an AI-based platform that connects students with corporate opportunities through Discord.
-
-- Implemented backend logic in **Java**
-- Integrated **Discord API** for real-time interaction
-- Built PostgreSQL queries for opportunity matching
-- Deployed using **Docker and GitLab CI/CD**
-
-Technologies: Java, PostgreSQL, Docker, Discord API, GPT-4
-
----
-
-### Document Chat System
-Frontend Developer
-
-A multi-user document chatbot where users upload files and interact with them through chat.
-
-- Built parts of the **React frontend**
-- Connected UI with **FastAPI REST endpoints**
-- Implemented document upload and chat interaction
-
-Technologies: React, FastAPI, Axios, HTML, CSS, Docker
-
----
-
-### GastroGuide – Restaurant Recommendation System
-Full-Stack Developer
-
-A web platform for discovering restaurants, rating dishes, and writing reviews.
-
-- Developed backend services with **Spring Boot**
-- Built PostgreSQL database models with JPA/Hibernate
-- Created a React frontend consuming the REST API
-
-Technologies: Java, Spring Boot, PostgreSQL, React, REST APIs
-
----
-
-## Education
-
-**Czech Technical University in Prague (ČVUT FIT)**  
-Bachelor’s in Software Engineering  
-Expected Graduation: June 2027
-
-Relevant coursework:
-Programming & Algorithms • Operating Systems • Computer Networks • Cryptography & Security • DevOps • Database Systems • Java Technology • Computer Architecture • Project Management
 
 ---
 
