@@ -3,9 +3,6 @@
 Software Engineer  
 Prague, Czech Republic  
 
-📧 maya.elkadi0@gmail.com  
-📞 +420 773 452 615  
-🔗 https://www.linkedin.com/in/maya-elkadi-8a8731254/
 
 ---
 
