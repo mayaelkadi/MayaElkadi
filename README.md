@@ -28,7 +28,6 @@ I'm always looking to deepen my understanding of **software architecture, distri
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=flat-square&logo=springboot)
